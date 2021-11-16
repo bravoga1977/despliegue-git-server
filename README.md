@@ -3,5 +3,5 @@ This will change the world
 #Install
 do this
 #uninstall
-do that
+do that too
 #end
