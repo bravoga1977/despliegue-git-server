@@ -4,3 +4,4 @@ This will change the world
 do this
 #uninstall
 do that
+#end
